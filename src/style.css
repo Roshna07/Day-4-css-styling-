@@ -1,0 +1,21 @@
+* {
+  background: linear-gradient(pink, pink);
+  margin: 0%;
+  text-align: center;
+}
+header {
+  background-color: rgb(46, 43, 226);
+  width: 400px;
+  text-align: right;
+  display: block;
+  text-rendering: geometricPrecision;
+}
+article {
+  text-emphasis: overline;
+  font-size: 200%;
+}
+
+h1 {
+  font-size: 50%;
+  padding: 5 rem;
+}
